@@ -1,4 +1,4 @@
-# Azure Honeynet and SOC with Real-World Cyber Attacks
+# Azure SOC + Honeynet (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/qzKGBQW.png)
 
 ## Introduction and Objective
