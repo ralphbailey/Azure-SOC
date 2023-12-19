@@ -45,13 +45,13 @@ During the "AFTER" stage of the project, the environment was hardened and securi
 
 ## Attack Maps Before Hardening / Security Controls
 <b>This attack map shows the traffic allowed by a Network Security Group with all traffic allowed inbound</b>
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/BSsGPrd.png)<br>
+![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/7Oj3ZOc.png)<br>
 
 <b>This attack map shows all the attempts malicious actors attempting to access the Linux virtual machine</b>
-![Linux Syslog Auth Failures](https://i.imgur.com/omQKBA3.png)<br>
+![Linux Syslog Auth Failures](https://i.imgur.com/e5v1pdy.png)<br>
 
  <b>This attack map shows all the attempts malicious actors attempting to access the Windows virtual machine</b>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/VVS8wxd.png)<br>
+![Windows RDP/SMB Auth Failures](https://i.imgur.com/Bs5cXpg.png)<br>
 
 
 ## Metrics Before Hardening / Security Controls
