@@ -56,15 +56,15 @@ During the "AFTER" stage of the project, the environment was hardened and securi
 
 ## Metrics Before Hardening / Security Controls
 The following table shows the metrics measured within the unsecured environment for 24 hours:
-Start Time 2023-11-13 0:00:00
-Stop Time 2023-11-14 0:00:00
+Start Time 2023-11-18 17:00:00
+Stop Time 2023-11-19 17:00:00
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 15953
-| Syslog                   | 3068
-| SecurityAlert            | 52
-| SecurityIncident         | 268
+| SecurityEvent            | 16779
+| Syslog                   | 190
+| SecurityAlert            | 103
+| SecurityIncident         | 102
 | AzureNetworkAnalytics_CL | 528
 
 
