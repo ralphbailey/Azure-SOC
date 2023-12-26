@@ -56,8 +56,8 @@ During the "AFTER" stage of the project, the environment was hardened and securi
 
 ## Metrics Before Hardening / Security Controls
 The following table shows the metrics measured within the unsecured environment for 24 hours:
-Start Time 2023-11-18 17:00:00
-Stop Time 2023-11-19 17:00:00
+Start Time 2023-12-20 17:00:00
+Stop Time 2023-12-21 17:00:00
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -73,13 +73,13 @@ Stop Time 2023-11-19 17:00:00
 ```All map queries actually returned no results due to no instances of malicious activity for the 24-hour period after hardening.```
 
 The following table shows the metrics measured in the environment for another 24 hours after applying security controls:
-Start Time 2023-06-18 17:52:43
-Stop Time	2023-08-19 17:52:43
+Start Time 2023-12-23 17:00:00
+Stop Time	2023-12-24 17:00:00
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 600
-| Syslog                   | 25
+| SecurityEvent            | 5507
+| Syslog                   | 2
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
