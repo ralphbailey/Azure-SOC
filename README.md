@@ -34,7 +34,7 @@ During the "BEFORE" stage of the project a virtual environment was deployed and 
 
 
 ## Architecture AFTER Hardening and Implementing Security Controls
-![Architecture Diagram](https://i.imgur.com/OT1Ou0f.png)
+![Architecture Diagram](https://i.imgur.com/UzLYHf0.png)
 During the "AFTER" stage of the project, the environment was hardened and security controls were implemented in order to satisfy NIST SP 800-53 Rev4 SC-7(3) Access Points. These hardening tactics included:
 - <b>Network Security Groups (NSGs)</b>: NSGs were hardened by blocking all inbound and outbound traffic with the exception of designated public IP addresses that required access to the virtual machines. This ensured that only authorized traffic from a trusted source was allowed to access the virtual machines.
 
